@@ -1,0 +1,68 @@
+#logo a img {
+    margin-left: 25px;
+}
+
+
+.dropdown {
+    list-style: none;
+    margin-top: 9px;
+    font-weight: bold;
+    color: white;
+    padding: 10px !important;
+    font-size: small;
+}
+
+.my-ul a {
+    font-weight: bold;
+    color: white;
+    padding: 20px !important;
+    font-size: small;
+}
+
+.my-ul a:hover {
+color: white;
+}
+.btn{
+    border-width: 3px !important;
+   border-color: white !important;
+   border-radius: 30px !important;
+   width: 200px;
+   font-weight: bold !important;
+   color: white !important;
+}
+.btn:hover{
+background: white !important;
+color: rgb(67, 67, 234) !important;
+}
+
+.navbar-toggler-icon{
+    border: none !important;
+}
+
+
+.navbar-toggler:focus-visible{
+   outline: none    ;
+}
+
+.sec{
+    background: #000;
+   width: auto;
+   height: 550px;
+}
+
+.sec img{
+    width: 800px;
+    height: 550px;
+    margin-left: -100px;
+}
+
+.tag img{
+    width: 180px;
+    margin-left: -360px;
+    margin-top: -220px;
+}
+
+.text img{
+    width: 500px;
+    margin-left: 100px;
+}
